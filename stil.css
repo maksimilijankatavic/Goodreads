@@ -1,0 +1,524 @@
+@media only screen and (max-width: 400px) {
+    .header1{
+        background-color: #f3a356;
+        text-align: center;
+        margin: 0px;
+        color: #2a2a2a;
+        font-family: 'Bitter', serif;
+    }
+
+    .header1:hover{
+        background-color: #bdb8b2;
+    }
+
+    #p1{
+        padding: 15px;
+        margin: 0px;
+    }
+
+    .header2{
+        background-color: #f5f2ed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #51443c;
+        flex-wrap: wrap;
+    }
+
+    #goodreads{
+        padding: 10px;
+        margin: 0px;
+        font-size: 28px;
+    }
+
+    #home{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #mybooks{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #browse{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #community{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #search{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    input[type="text"]{
+        background-color: #ffffff;
+        border: 1px #bdb8b2;
+        border-radius: 3px;
+        padding: 10px;
+        font-size: 11px;
+        box-sizing: border-box;
+        height: 50%;
+    }
+
+    #sign_in{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #join{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    .list{
+        padding-top: 10px;
+    }
+
+    .books{
+        display: flex;
+    }
+
+    #p2{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-right: 20px;
+    }
+
+    #p3{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 14px;
+        padding-left: 10px;
+    }
+
+    #p4{
+        background-color: #3d9c6b;
+        color: #f5f2ed;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 14px;
+        padding: 5px 10px;
+        border: 1px #bdb8b2;
+        border-radius: 3px;
+    }
+
+    .space{
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .read{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .comments{
+        padding-top: 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    #comments{
+        font-size: 11px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        color: #51443c;
+    }
+
+    .comment-container{
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .vote{
+        padding-top: 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    #vote{
+        font-size: 11px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        color: #51443c;
+    }
+
+    .user-container{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        width: 60%;
+    }
+
+    .user{
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .cookies{
+        position: relative;
+        bottom: 0px;
+        background-color: #2a2a2a;
+        width: 100%;
+        color: #bdb8b2;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+}
+
+
+
+
+
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+    .header1{
+        background-color: #f3a356;
+        text-align: center;
+        margin: 0px;
+        color: #2a2a2a;
+        font-family: 'Bitter', serif;
+    }
+
+    .header1:hover{
+        background-color: #bdb8b2;
+    }
+
+    #p1{
+        padding: 15px;
+        margin: 0px;
+    }
+
+    .header2{
+        background-color: #f5f2ed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #51443c;
+        flex-wrap: wrap;
+    }
+
+    #goodreads{
+        padding: 10px;
+        margin: 0px;
+        font-size: 28px;
+    }
+
+    #home{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #mybooks{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #browse{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #community{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #search{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    input[type="text"]{
+        background-color: #ffffff;
+        border: 1px #bdb8b2;
+        border-radius: 3px;
+        padding: 10px;
+        font-size: 11px;
+        box-sizing: border-box;
+        height: 50%;
+    }
+
+    #sign_in{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #join{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    .list{
+        padding-top: 10px;
+    }
+
+    .books{
+        display: flex;
+    }
+
+    #p2{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-right: 20px;
+    }
+
+    #p3{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 14px;
+        padding-left: 10px;
+    }
+
+    #p4{
+        background-color: #3d9c6b;
+        color: #f5f2ed;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 14px;
+        padding: 5px 10px;
+        border: 1px #bdb8b2;
+        border-radius: 3px;
+    }
+
+    .space{
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .read{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .comments{
+        padding-top: 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    #comments{
+        font-size: 11px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        color: #51443c;
+    }
+
+    .comment-container{
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .vote{
+        padding-top: 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    #vote{
+        font-size: 11px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        color: #51443c;
+    }
+
+    .user-container{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .user{
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .cookies{
+        position: relative;
+        bottom: 0px;
+        background-color: #2a2a2a;
+        width: 100%;
+        color: #bdb8b2;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+}
+
+
+
+
+
+@media only screen and (min-width: 961px) {
+    .header1{
+        background-color: #f3a356;
+        text-align: center;
+        margin: 0px;
+        color: #2a2a2a;
+        font-family: 'Bitter', serif;
+    }
+
+    .header1:hover{
+        background-color: #bdb8b2;
+    }
+
+    #p1{
+        padding: 15px;
+        margin: 0px;
+    }
+
+    .header2{
+        background-color: #f5f2ed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #51443c;
+    }
+
+    #goodreads{
+        padding: 10px;
+        margin: 0px;
+        font-size: 28px;
+    }
+
+    #home{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #mybooks{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #browse{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #community{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #search{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    input[type="text"]{
+        background-color: #ffffff;
+        border: 1px #bdb8b2;
+        border-radius: 3px;
+        padding: 10px;
+        font-size: 11px;
+        box-sizing: border-box;
+        height: 50%;
+    }
+
+    #sign_in{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    #join{
+        padding: 17px;
+        margin: 0px;
+    }
+
+    .list{
+        padding-left: 20%;
+        padding-right: 40%;
+        padding-top: 10px;
+    }
+
+    .books{
+        display: flex;
+    }
+
+    #p2{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-right: 20px;
+    }
+
+    #p3{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 14px;
+        padding-left: 10px;
+    }
+
+    #p4{
+        background-color: #3d9c6b;
+        color: #f5f2ed;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 14px;
+        padding: 5px 10px;
+        border: 1px #bdb8b2;
+        border-radius: 3px;
+    }
+
+    .space{
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .read{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .comments{
+        padding-left: 20%;
+        padding-right: 40%;
+        padding-top: 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    #comments{
+        font-size: 11px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        color: #51443c;
+    }
+
+    .comment-container{
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .vote{
+        padding-left: 20%;
+        padding-right: 40%;
+        padding-top: 10px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    #vote{
+        font-size: 11px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        color: #51443c;
+    }
+
+    .user-container{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .user{
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .cookies{
+        position: relative;
+        bottom: 0px;
+        background-color: #2a2a2a;
+        width: 100%;
+        color: #bdb8b2;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+}
