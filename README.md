@@ -28,12 +28,11 @@ Ovo je projekt web stranice napravljen kao rješenje kolokvijskog zadatka. Stran
 ## Screenshot
 <h3>Zadatak</h3>
 
-<img src="./images/01.png" style="display:block; margin:0;">
-<img src="./images/02.png" style="display:block; margin:0;">
+![zadatak](./images/01.png)
 
 <h3>Rješenje<h3>
 
-![rjesenje](./images/03.png)
+![rjesenje](./images/02.png)
 
 ## Dodatne informacije
 Za više detalja o zadatku pogledajte Zadatak.pdf.
